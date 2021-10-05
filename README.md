@@ -2,4 +2,4 @@
 
 This app helps to detect if a birthday is palindrome.
 
-Built using Html, Css, Javascript.
+Built using Html, CSS, Javascript.
